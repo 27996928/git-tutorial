@@ -4,3 +4,4 @@ From wi11 nano editor add any message.
 -fix-B
 -feaure-C
 new line
+copy to window10 local named feature-D
