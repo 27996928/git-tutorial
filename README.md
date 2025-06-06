@@ -5,3 +5,4 @@ From wi11 nano editor add any message.
 -feaure-C
 new line
 copy to window10 local named feature-D
+add feature-D 2025.6.6
